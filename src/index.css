@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* baitap1 */
+/* .header {
+  background: red;
+  padding: 10px 0;
+}
+.footer {
+  background: blue;
+  padding: 10px 0;
+}
+.main{
+  display: flex;
+}
+.content{
+  flex: 70%;
+  background: yellow;
+  padding: 10px 0;
+}
+.sidebar{
+  flex: 30%;
+  background:green;
+  padding: 10px 0;
+} */
+/* /baitap1 */
+
+/* Baitap1_Review */
+/* header{
+  background: red;
+  padding: 10px 0;
+}
+footer{
+  background: blue;
+  padding: 10px 0;
+}
+.main{
+  display: flex;
+}
+.Content{
+  flex: 70%;
+  background: yellow;
+  padding: 10px 0;
+}
+.Sidebar{
+  flex: 30%;
+  background:green;
+  padding: 10px 0;
+} */
+/*~Baitap1_Review */
+.card-body a {
+  margin: 0.5rem !important;
+}
