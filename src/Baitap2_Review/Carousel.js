@@ -31,7 +31,6 @@ const Carousel = () => {
         <span className="carousel-control-next-icon" />
       </a>
     </section>
-
     // <!-- END CAROUSEL -->
   
   )

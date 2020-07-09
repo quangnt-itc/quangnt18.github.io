@@ -11,7 +11,7 @@ import ListProduct from './ListProduct';
 import Product from './Product';
 import Footer from './Footer';
 
-const Baitap2 = () => {
+const Baitap2_Review = () => {
   return (
     <div>
       <Header/>
